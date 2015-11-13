@@ -1,0 +1,24 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<widget xmlns = "http://www.w3.org/ns/widgets" 
+   xmlns:gap = "http://phonegap.com/ns/1.0" id = "com.commercenetworks.helloworld" version = "1.0">
+   
+   <name>Hello World!</name>
+   
+   <description>
+      Hello World Test
+   </description>
+   
+   <author href = "http://commercenetworks.com" email = "support@commercenetworks.com">
+      Commerce Networks, LLC.
+   </author>
+   
+   <preference name = "permissions" value = "none"/>
+      
+   <icon src = "res/icon/ios/apple-touch-icon-72x72.png" gap:platform = "ios" gap:qualifier = ""/>
+   <icon src = "res/icon/ios/apple-touch-icon-57x57.png" gap:platform = "ios" width = "57" height = "57" />
+   <icon src = "res/icon/ios/apple-touch-icon-72x72.png" gap:platform = "ios" width = "72" height = "72" />
+   <icon src = "res/icon/ios/apple-touch-icon-114x114.png" gap:platform = "ios" width = "114" height = "114" />
+   <icon src = "res/icon/ios/apple-touch-icon-144x144.png" gap:platform = "ios" width = "144" height = "144" />
+   
+</widget>
